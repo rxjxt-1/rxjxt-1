@@ -8,29 +8,32 @@
 ---
 
 ### 🛠️ My Tech Stack & Tools
-### 🛠️ Tech Stack & Arsenal
 
-**Languages & Core:**
+**💻 Development & Core:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend, Cloud & Databases:**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**☁️ Servers, Cloud & Databases:**
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Web Hosting & Domains](https://img.shields.io/badge/Web_Hosting_&_Domains-Servers-00599C?style=for-the-badge&logo=linux&logoColor=white)
 
-**Design & Creative:**
+**🎨 UI/UX, 3D & Graphic Design:**
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20CC-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Photo Manipulation](https://img.shields.io/badge/Photo_Manipulation-Editing-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-**Tools & Ecosystem:**
-![Discord API](https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI%20Assistants-000000?style=for-the-badge&logo=openai&logoColor=white)
+**🤖 AI, Automation & Discord Ecosystem:**
+![Discord API](https://img.shields.io/badge/Discord%20Bot_&_API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![AI Assistants](https://img.shields.io/badge/AI_Assist._&_Prompting-000000?style=for-the-badge&logo=openai&logoColor=white)
+![AI Image Gen.](https://img.shields.io/badge/AI_Image_Gen-Midjourney-8A2BE2?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+
+**📈 Marketing, SEO & Finance Analytics:**
+![SEO](https://img.shields.io/badge/SEO_&_Digital_Marketing-Growth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![E-commerce](https://img.shields.io/badge/E--Commerce_&_Amazon-Listings-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 
 ### 🔥 Featured Projects
 * **[RXJXT Quest Dashboard](https://github.com/rxjxt-1/RXJXT-Quest-Tool)** - Ultimate Auto-Grind Engine & Native UI for Discord Quests.
