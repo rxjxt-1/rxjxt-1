@@ -1,4 +1,5 @@
-<img width="1024" height="1024" alt="b3e66a70-76a7-455b-8c40-6fccf7dc6193 (1)" src="https://github.com/user-attachments/assets/ae01d8d3-9c36-4fdc-a07a-ebc18cccb4a6" />
+<img width="3084" height="1215" alt="Screenshot 2026-06-24 204036" src="https://github.com/user-attachments/assets/33f4d913-8fe7-4b9e-81fa-89a3149eea11" />
+
 
 <div align="center">
   <h1>Hi, I'm Rajat 👋</h1>
