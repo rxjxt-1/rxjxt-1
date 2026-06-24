@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="b3e66a70-76a7-455b-8c40-6fccf7dc6193 (1)" src="https://github.com/user-attachments/assets/ae01d8d3-9c36-4fdc-a07a-ebc18cccb4a6" />
+
 <div align="center">
   <h1>Hi, I'm RXJXT 👋</h1>
   <p><b>🚀 Building tools to optimize the grind | UI/UX Enthusiast</b></p>
