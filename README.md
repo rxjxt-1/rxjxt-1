@@ -42,4 +42,5 @@
 * **[Auto-discord-quest-completer](https://github.com/rxjxt-1/Auto-discord-quest-completer)** - Console Edition Auto-Grind Engine.
 
 ### 🌐 Connect With Me
-[![Join my Discord](https://img.shields.io/badge/Join_My_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DDPmSywBcV)
+[![Discord Profile](https://img.shields.io/badge/My_Discord_Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1262670730865283076)
+[![Discord Server](https://img.shields.io/badge/My_Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DDPmSywBcV)
