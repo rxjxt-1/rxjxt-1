@@ -51,7 +51,7 @@
 
 ### 🌐 Connect With Me
 [![Discord Profile](https://img.shields.io/badge/My_Discord_Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1262670730865283076)
-[![Discord Server](https://img.shields.io/badge/My_Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DDPmSywBcV)
+[![Discord Server](https://img.shields.io/badge/My_Discord_Server-5123F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DDPmSywBcV)
 
 <br><br>
 <div align="center">
