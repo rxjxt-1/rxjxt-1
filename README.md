@@ -77,7 +77,7 @@
 ### <img src="https://api.iconify.design/lucide:link.svg?color=8b949e" width="22" align="center"> Connect With Me
 <div align="center">
   <a href="mailto:maikonrajat@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://chobber-server.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://chobber-server.vercel.app/"><img src="https://img.shields.io/badge/Website-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
   <a href="https://discordapp.com/users/1262670730865283076"><img src="https://img.shields.io/badge/Discord_Profile-161b22?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile"></a>
   <a href="https://discord.gg/DDPmSywBcV"><img src="https://img.shields.io/badge/Discord_Server-161b22?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"></a>
 </div>
