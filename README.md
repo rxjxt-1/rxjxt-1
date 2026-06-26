@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="2316" height="993" alt="Screenshot 2026-06-26 165253" src="https://github.com/user-attachments/assets/c287b0bd-7fe8-45ac-abc9-f07e980e3190" />
+  <img width="3440" height="1402" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/35e3c6e6-ad58-4e88-8572-277b16cca7b4" />
 </div>
 
 <br>
@@ -28,6 +28,16 @@
     <img src="https://api.iconify.design/lucide/layers.svg?color=%238b949e" width="18" align="center" /> &nbsp;<b>UI Libraries & Design:</b> React, Tailwind CSS, Figma, Adobe Creative Cloud (PS, AI)
   </p>
 </div>
+
+<img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rxjxt-1&bg_color=transparent&color=8b949e&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
 
 <img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
 
