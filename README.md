@@ -50,9 +50,9 @@
 </div>
 
 ---
-### 🐍 My GitHub Contribution Snake
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rxjxt-1/rxjxt-1/output/dist/github-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/rxjxt-1/rxjxt-1/blob/output/dist/github-snake-dark.svg?raw=true" alt="Snake Animation" width="100%" />
 </div>
 
 ### 🌐 Connect With Me
