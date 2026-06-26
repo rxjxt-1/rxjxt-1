@@ -6,7 +6,6 @@
   <p><b>🚀 If it can be imagined, I can build it. The all-in-one problem solver, full-stack developer, and UI/UX enthusiast.</b></p>
 </div>
 
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/rxjxt-1/rxjxt-1/a88132457eb7d9a6944b5951aa9d2703b4aff799/github-snake-dark.svg" alt="GitHub Snake" width="100%">
 </div>
