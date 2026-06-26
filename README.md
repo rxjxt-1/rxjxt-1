@@ -18,20 +18,20 @@
 
 <img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
 
-### <img src="https://api.iconify.design/lucide:user.svg?color=8b949e" width="22" align="center" /> About Me
-<div align="center">
-  <p>I am a versatile <b>Full Stack Developer</b> and <b>AI Automation Engineer</b> with a strong focus on building seamless, modern interfaces and robust backend systems. I specialize in the Discord ecosystem, crafting intelligent automation tools, and designing intuitive UI/UX experiences. Always learning, building, and pushing boundaries.</p>
+### <img src="https://api.iconify.design/lucide/user.svg?color=%238b949e" width="22" align="center" /> About Me
+<div align="left">
+  <p>I am a versatile <b>Full Stack Developer</b> and <b>AI Automation Engineer</b> with a strong focus on building seamless, modern interfaces and robust backend systems. Beyond coding, I specialize in crafting intelligent automation tools, architecting Discord ecosystems, managing scalable databases, and designing striking visual assets.</p>
+  <br>
+  <p>
+    <img src="https://api.iconify.design/lucide/map-pin.svg?color=%238b949e" width="18" align="center" /> &nbsp;<b>Location:</b> India<br>
+    <img src="https://api.iconify.design/lucide/zap.svg?color=%238b949e" width="18" align="center" /> &nbsp;<b>Expertise:</b> Full-Stack Dev, AI Bots & Automation, Discord Server Architecture, Database Management, Graphic Design & 3D Rendering<br>
+    <img src="https://api.iconify.design/lucide/layers.svg?color=%238b949e" width="18" align="center" /> &nbsp;<b>UI Libraries & Design:</b> React, Tailwind CSS, Figma, Adobe Creative Cloud (PS, AI)
+  </p>
 </div>
 
 <img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rxjxt-1&bg_color=transparent&color=8b949e&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
-
-### <img src="https://api.iconify.design/lucide:code-2.svg?color=8b949e" width="22" align="center" /> GitHub Stats & Streak
+### <img src="https://api.iconify.design/lucide/activity.svg?color=%238b949e" width="22" align="center" /> GitHub Stats & Streak
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rxjxt-1&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxjxt-1&theme=dark&hide_border=true&layout=compact" width="48%" />
@@ -41,7 +41,7 @@
 
 <img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
 
-### <img src="https://api.iconify.design/lucide:code-2.svg?color=8b949e" width="22" align="center" /> Featured Projects
+### <img src="https://api.iconify.design/lucide/rocket.svg?color=%238b949e" width="22" align="center" /> Featured Projects
 <div align="center">
   <a href="https://github.com/rxjxt-1/RXJXT-Quest-Tool">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rxjxt-1&repo=RXJXT-Quest-Tool&theme=dark&hide_border=true" width="48%" />
@@ -56,7 +56,7 @@
 
 <img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
 
-### <img src="https://api.iconify.design/lucide:code-2.svg?color=8b949e" width="22" align="center" /> The Tech Arsenal
+### <img src="https://api.iconify.design/lucide/terminal.svg?color=%238b949e" width="22" align="center" /> The Tech Arsenal
 <div align="center">
   <h4><b>Languages & Core Frameworks</b></h4>
   <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,tailwind" />
@@ -74,7 +74,7 @@
 
 <img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
 
-### <img src="https://api.iconify.design/lucide:link.svg?color=8b949e" width="22" align="center"> Connect With Me
+### <img src="https://api.iconify.design/lucide/link.svg?color=%238b949e" width="22" align="center"> Connect With Me
 <div align="center">
   <a href="mailto:maikonrajat@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://chobber-server.vercel.app/"><img src="https://img.shields.io/badge/Website-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
@@ -85,6 +85,6 @@
 <br><br>
 
 <div align="center">
-  <img src="https://api.iconify.design/lucide:quote.svg?color=8b949e" width="24"><br><br>
+  <img src="https://api.iconify.design/lucide/quote.svg?color=%238b949e" width="24"><br><br>
   <span style="color: #8b949e;"><i><b>"Build once. Improve forever."</b></i></span>
 </div>
