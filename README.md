@@ -52,7 +52,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rxjxt-1/rxjxt-1/output/dist/github-snake-dark.svg?v=1" alt="GitHub Snake" width="100%">
+  <img src="https://raw.githubusercontent.com/rxjxt-1/rxjxt-1/output/github-snake-dark.svg" alt="GitHub Snake" width="100%">
 </div>
 
 ### 🌐 Connect With Me
