@@ -6,6 +6,11 @@
   <p><b>🚀 If it can be imagined, I can build it. The all-in-one problem solver, full-stack developer, and UI/UX enthusiast.</b></p>
 </div>
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rxjxt-1/rxjxt-1/a88132457eb7d9a6944b5951aa9d2703b4aff799/github-snake-dark.svg" alt="GitHub Snake" width="100%">
+</div>
+
 ### ⚡ GitHub Live Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rxjxt-1&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -51,9 +56,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rxjxt-1/rxjxt-1/a88132457eb7d9a6944b5951aa9d2703b4aff799/github-snake-dark.svg" alt="GitHub Snake" width="100%">
-</div>
 
 ### 🌐 Connect With Me
 [![Discord Profile](https://img.shields.io/badge/My_Discord_Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1262670730865283076)
