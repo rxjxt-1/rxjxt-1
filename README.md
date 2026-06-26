@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1881" height="836" alt="ChatGPT Image Jun 26, 2026, 04_48_25 PM" src="https://github.com/user-attachments/assets/394acbb8-45c6-417c-9fb3-8b705ba66454" />
+  <img width="2316" height="993" alt="Screenshot 2026-06-26 165253" src="https://github.com/user-attachments/assets/c287b0bd-7fe8-45ac-abc9-f07e980e3190" />
 </div>
 
 <br>
