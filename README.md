@@ -1,16 +1,17 @@
 <img width="3440" height="1440" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/8805c4e1-0698-4693-a78e-962ad0b7dc9b" />
 
-
-
+---
 <div align="center">
-  <h1>Hi, I'm Rajat 👋</h1>
-  <p><b>🚀 If it can be imagined, I can build it. The all-in-one problem solver, full-stack developer, and UI/UX enthusiast.</b></p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Rajat+%F0%9F%91%8B;%F0%9F%9A%80+You+name+the+problem%2C+I+engineer+the+solution.;%F0%9F%92%BB+All-rounder+%26+UI%2FUX+enthusiast." alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rxjxt-1/rxjxt-1/a88132457eb7d9a6944b5951aa9d2703b4aff799/github-snake-dark.svg" alt="GitHub Snake" width="100%">
 </div>
 
+---
 ### ⚡ GitHub Live Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rxjxt-1&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -56,11 +57,11 @@
 
 ---
 
-
 ### 🌐 Connect With Me
-[![Discord Profile](https://img.shields.io/badge/My_Discord_Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1262670730865283076)
-[![Discord Server](https://img.shields.io/badge/My_Discord_Server-5123F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DDPmSywBcV)
-
+<div align="center">
+  <a href="https://discordapp.com/users/1262670730865283076"><img src="https://img.shields.io/badge/My_Discord_Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile"></a>
+  <a href="https://discord.gg/DDPmSywBcV"><img src="https://img.shields.io/badge/My_Discord_Server-5123F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"></a>
+</div>
 
 <br><br>
 <div align="center">
