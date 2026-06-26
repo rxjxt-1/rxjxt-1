@@ -6,42 +6,42 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rajat;Full+Stack+Developer;UI%2FUX+Designer;AI+Automation+Engineer;Building+Minimal+Interfaces;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Rajat+%F0%9F%91%8B;Full+Stack+Developer;AI+Automation+Engineer;Discord+Ecosystem+Developer;UI%2FUX+Enthusiast;Building+Modern+Interfaces" alt="Typing SVG" />
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rxjxt-1&bg_color=transparent&color=8b949e&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
+<img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rxjxt-1/rxjxt-1/a88132457eb7d9a6944b5951aa9d2703b4aff799/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </div>
 
----
+<img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
 
-### <img src="https://api.iconify.design/lucide:trophy.svg?color=8b949e" width="22" align="center" /> GitHub Trophies
+### <img src="https://api.iconify.design/lucide:user.svg?color=8b949e" width="22" align="center" /> About Me
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rxjxt-1&theme=onedark&no-bg=true&no-frame=true&title_color=ffffff&text_color=8b949e&margin-w=15" alt="Trophies" />
-  </a>
+  <p>I am a versatile <b>Full Stack Developer</b> and <b>AI Automation Engineer</b> with a strong focus on building seamless, modern interfaces and robust backend systems. I specialize in the Discord ecosystem, crafting intelligent automation tools, and designing intuitive UI/UX experiences. Always learning, building, and pushing boundaries.</p>
 </div>
 
----
+<img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
 
-### ⚡ GitHub Live Stats
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rxjxt-1&bg_color=transparent&color=8b949e&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
+
+### <img src="https://api.iconify.design/lucide:code-2.svg?color=8b949e" width="22" align="center" /> GitHub Stats & Streak
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rxjxt-1&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxjxt-1&theme=dark&hide_border=true&layout=compact" width="48%" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rxjxt-1&theme=dark&hide_border=true" width="97%" />
 </div>
 
----
+<img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
 
-### 🔥 Featured Projects
+### <img src="https://api.iconify.design/lucide:code-2.svg?color=8b949e" width="22" align="center" /> Featured Projects
 <div align="center">
   <a href="https://github.com/rxjxt-1/RXJXT-Quest-Tool">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rxjxt-1&repo=RXJXT-Quest-Tool&theme=dark&hide_border=true" width="48%" />
@@ -54,7 +54,7 @@
   </a>
 </div>
 
----
+<img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
 
 ### <img src="https://api.iconify.design/lucide:code-2.svg?color=8b949e" width="22" align="center" /> The Tech Arsenal
 <div align="center">
@@ -72,7 +72,8 @@
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,discord,vscode,git,github" />
 </div>
 
----
+<img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
+
 ### <img src="https://api.iconify.design/lucide:link.svg?color=8b949e" width="22" align="center"> Connect With Me
 <div align="center">
   <a href="mailto:maikonrajat@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
