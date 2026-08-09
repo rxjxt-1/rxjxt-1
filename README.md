@@ -13,7 +13,7 @@
 <img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rxjxt-1/rxjxt-1/main/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/rxjxt-1/rxjxt-1/output/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </div>
 
 <img src="https://singlecolorimage.com/get/8b949e/1000x1" width="100%" height="1" alt="line" />
